@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🏥 No-Show Appointment Analysis  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:71B280&height=200&section=header&text=No-Show%20Appointment%20Analysis&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+
+### 🏥 No-Show Appointment Analysis  
 ### *Exploratory Data Analysis of Patient Appointment Attendance*
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge)
