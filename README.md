@@ -18,8 +18,8 @@
 This project explores patterns behind **patient no-shows in medical appointments** using Python-based exploratory data analysis (EDA).
 
 The analysis aims to identify key factors influencing whether patients:
-- ✅ Show up for appointments  
-- ❌ Miss scheduled appointments  
+- Show up for appointments  
+- Miss scheduled appointments  
 
 ---
 
